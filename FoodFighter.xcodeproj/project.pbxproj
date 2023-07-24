@@ -10,6 +10,7 @@
 		145AD6F12A6B93A000A6DB3D /* KakaoTalkViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 145AD6F02A6B93A000A6DB3D /* KakaoTalkViewController.swift */; };
 		145AD6F32A6B93A700A6DB3D /* FloViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 145AD6F22A6B93A700A6DB3D /* FloViewController.swift */; };
 		145AD6F52A6B93C200A6DB3D /* BaeminViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 145AD6F42A6B93C200A6DB3D /* BaeminViewController.swift */; };
+		148EC3C52A6E0690007EA961 /* CommitViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 148EC3C42A6E0690007EA961 /* CommitViewController.swift */; };
 		14C184802A668BA700D0FBA1 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14C1847F2A668BA700D0FBA1 /* AppDelegate.swift */; };
 		14C184822A668BA700D0FBA1 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14C184812A668BA700D0FBA1 /* SceneDelegate.swift */; };
 		14C184842A668BA700D0FBA1 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14C184832A668BA700D0FBA1 /* ViewController.swift */; };
@@ -22,6 +23,7 @@
 		145AD6F02A6B93A000A6DB3D /* KakaoTalkViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KakaoTalkViewController.swift; sourceTree = "<group>"; };
 		145AD6F22A6B93A700A6DB3D /* FloViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FloViewController.swift; sourceTree = "<group>"; };
 		145AD6F42A6B93C200A6DB3D /* BaeminViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BaeminViewController.swift; sourceTree = "<group>"; };
+		148EC3C42A6E0690007EA961 /* CommitViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CommitViewController.swift; sourceTree = "<group>"; };
 		14C1847C2A668BA700D0FBA1 /* FoodFighter.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FoodFighter.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		14C1847F2A668BA700D0FBA1 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		14C184812A668BA700D0FBA1 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -67,6 +69,7 @@
 				14C184832A668BA700D0FBA1 /* ViewController.swift */,
 				145AD6F02A6B93A000A6DB3D /* KakaoTalkViewController.swift */,
 				145AD6F42A6B93C200A6DB3D /* BaeminViewController.swift */,
+				148EC3C42A6E0690007EA961 /* CommitViewController.swift */,
 				145AD6F22A6B93A700A6DB3D /* FloViewController.swift */,
 				14C184852A668BA700D0FBA1 /* Main.storyboard */,
 				14C184882A668BA900D0FBA1 /* Assets.xcassets */,
@@ -148,6 +151,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				14C184842A668BA700D0FBA1 /* ViewController.swift in Sources */,
+				148EC3C52A6E0690007EA961 /* CommitViewController.swift in Sources */,
 				14C184802A668BA700D0FBA1 /* AppDelegate.swift in Sources */,
 				145AD6F12A6B93A000A6DB3D /* KakaoTalkViewController.swift in Sources */,
 				14C184822A668BA700D0FBA1 /* SceneDelegate.swift in Sources */,
