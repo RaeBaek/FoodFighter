@@ -939,6 +939,7 @@
                     </view>
                     <connections>
                         <outlet property="locationButton" destination="aIf-JK-sVQ" id="74c-Gx-Dzj"/>
+                        <outlet property="mainTextField" destination="Sj2-py-LXI" id="mJd-8P-tYX"/>
                         <outletCollection property="topTwoButton" destination="QXk-fS-OCO" collectionClass="NSMutableArray" id="Lg6-i5-ECF"/>
                         <outletCollection property="topTwoButton" destination="KFa-NY-cv2" collectionClass="NSMutableArray" id="Gsd-lN-9bg"/>
                         <outletCollection property="hashTagButtons" destination="fUI-Vx-WvU" collectionClass="NSMutableArray" id="Dny-aQ-T2p"/>

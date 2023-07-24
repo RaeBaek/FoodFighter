@@ -11,9 +11,11 @@ class BaeminViewController: UIViewController {
     
     @IBOutlet var locationButton: UIButton!
     @IBOutlet var topTwoButton: [UIButton]!
+    
+    @IBOutlet var mainTextField: UITextField!
+    
     @IBOutlet var hashTagButtons: [UIButton]!
     @IBOutlet var mainButtonViews: [UIView]!
-    
     @IBOutlet var mainButtonImages: [UIImageView]!
     
     override func viewDidLoad() {
@@ -21,6 +23,9 @@ class BaeminViewController: UIViewController {
         designTopButton()
         designHashTagButton()
         designMainButton()
+        
+        mainTextField.placeholder = "짜장면 특가!"
+        
     }
     
     @IBAction func tapGestureTapped(_ sender: UITapGestureRecognizer) {
