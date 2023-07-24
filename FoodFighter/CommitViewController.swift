@@ -13,6 +13,8 @@ class CommitViewController: UIViewController {
         super.viewDidLoad()
         commitFunction()
         print("깃허브에 올라갑니다.")
+        print("커밋과 동시에 푸시?!")
+        
     }
 
     func commitFunction() {
