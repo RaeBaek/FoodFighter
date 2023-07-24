@@ -14,6 +14,7 @@ class CommitViewController: UIViewController {
         commitFunction()
         print("깃허브에 올라갑니다.")
         print("커밋과 동시에 푸시?!")
+        print("리드미를 작성해보았다 ^^")
         
     }
 
