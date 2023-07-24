@@ -11,7 +11,11 @@ class CommitViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        
+        commitFunction()
+        print("깃허브에 올라갑니다.")
     }
 
+    func commitFunction() {
+        print("commit~~")
+    }
 }
